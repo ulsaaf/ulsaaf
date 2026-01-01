@@ -1,5 +1,5 @@
-# 👋 Ulsbold — Radiology Data Analyst & Medical Imaging AI Engineer
-**Радиологи, MRI / CT өгөгдөл дээр суурилсан эмнэлгийн хиймэл оюун ухааны инженер**
+# 👋 Ulsbold — Radiology Data Analyst, Medical Imaging AI Engineer & Full-Stack Developer
+**Радиологи, MRI / CT өгөгдөл дээр суурилсан эмнэлгийн хиймэл оюун ухаан ба full-stack хөгжүүлэгч**
 
 🎓 Medical IT Engineering – MNUMS  
 🏥 Radiology Data Analyst — Primary Role  
