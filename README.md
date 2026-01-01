@@ -1,64 +1,97 @@
 # 👋 Ulsbold — Radiology Data Analyst & Medical Imaging AI Engineer
+**Радиологи, MRI/CT өгөгдөл дээр ажилладаг эмнэлгийн AI инженер**
 
 🎓 Medical IT Engineering – MNUMS  
 🏥 **Radiology Data Analyst — Primary Role**  
-🧠 Medical Imaging Engineer  
-🤖 Clinical ML Engineer  
-🌐 Web & App Development — Professional Level  
-🎮 Unreal Engine C++ Game Developer — Intermediate Level  
-🛡 Cyber Security — Intermediate Level  
-🌌 Cosmology, Space-Time Physics & Simulation — Research Level  
+*MRI, CT зураг дээрх өгөгдлийг задлан шинжилж, эмнэлгийн бодит өгөгдөл дээр AI хөгжүүлдэг*  
 
-> "Building intelligence across healthcare, medical imaging and the universe itself."
+🧠 Medical Imaging Engineer  
+*Эмнэлгийн дүрс боловсруулах pipeline, segmentation, feature extraction хийдэг*  
+
+🤖 Clinical ML Engineer  
+*Эмнэлгийн клиник өгөгдөл дээр машин сургалтын загвар хөгжүүлдэг*  
+
+🌐 Web & App Development — Professional Level  
+*Backend API, dashboard, mobile апп хөгжүүлдэг*  
+
+🎮 Unreal Engine C++ Game Developer — Intermediate Level  
+*Unreal Engine дээр C++ ашиглан тоглоомын системүүд хийдэг*  
+
+🛡 Cyber Security — Intermediate Level  
+*Сүлжээ, системийн аюулгүй байдлын үндсэн ойлголт, автоматжуулалт хийдэг*  
+
+🌌 Cosmology, Space-Time Physics & Simulation — Research Level  
+*Гравитаци, орон-цагийн симуляци, физикийн загварчлал хийдэг*  
+
+> "Building intelligence across healthcare, medical imaging and the universe itself."  
+> *Эмнэлгийн өгөгдөл, дүрс боловсруулалт болон физикийн ертөнцийг холбосон ухаалаг системүүд бүтээж байна.*
 
 ---
 
 ## 🧠 Medical Imaging & Radiology Data Analysis (Core Expertise)
-
-I work with **clinical radiology data** and build AI systems that understand real medical imaging:
+**Эмнэлгийн MRI, CT бодит өгөгдлийг ойлгож, анализ хийдэг үндсэн чадвар**
 
 - 🧲 **MRI (Magnetic Resonance Imaging)** – brain & soft-tissue pattern analysis  
-- 🩻 **CT (Computed Tomography)** – organ segmentation, anomaly & density detection  
-- 🏥 **DICOM Processing** – metadata, pixel spacing, Hounsfield Units (HU)  
-- 📊 **Clinical Feature Engineering** – linking imaging data with lab & patient records  
-- 🔍 **Radiology-Oriented Analytics** – texture, intensity & morphological patterns  
+  *Тархины болон зөөлөн эдийн хэв маягийг задлан шинжилдэг*  
+
+- 🩻 **CT (Computed Tomography)** – organ segmentation, anomaly detection  
+  *Дотоод эрхтний сегментаци, хэвийн бус өөрчлөлтийг илрүүлдэг*  
+
+- 🏥 **DICOM Processing** – metadata, pixel spacing, Hounsfield Units  
+  *DICOM формат, пикселийн зай, нягтын утгуудыг боловсруулдаг*  
+
+- 📊 **Clinical Feature Engineering** – imaging + lab data холбоно  
+  *Дүрс болон лабораторийн өгөгдлийг нэгтгэн шинж гаргадаг*  
 
 **Tools & Tech:**  
-Python, NumPy, Pandas, OpenCV, SimpleITK, PyDicom, scikit-learn, PyTorch  
+*Python ашиглан эмнэлгийн өгөгдөл боловсруулж, AI загвар сургадаг*
 
 **Related Projects:**
 - **medical-image-ai-pipeline** – CT/MRI preprocessing & deep learning  
+  *Эмнэлгийн дүрс боловсруулах pipeline*  
+
 - **diabetes-early-detection-ml** – Imaging + clinical data ML models  
+  *Чихрийн шижинг эрт илрүүлэх AI загвар*
 
 ---
 
 ## 🧬 AI, ML & Data Science
-- **diabetes-early-detection-ml** – Early-stage diabetes detection models  
-- **medical-image-ai-pipeline** – CT/MRI preprocessing & deep learning  
-- **healthcare-eda-pipeline** – Data cleaning & feature engineering  
+*Машин сургалт, өгөгдлийн шинжилгээний төслүүд*
+
+- **diabetes-early-detection-ml** – Early-stage diabetes detection  
+- **medical-image-ai-pipeline** – CT/MRI deep learning  
+- **healthcare-eda-pipeline** – Healthcare өгөгдлийн цэвэрлэгээ, шинжилгээ  
 
 ---
 
 ## 🌐 Web & App Development
-- **fastapi-med-api** – REST API for medical predictions  
-- **patient-dashboard-web** – Healthcare analytics dashboard  
-- **health-mobile-app** – Cross-platform health application  
+*Эмнэлгийн веб систем, API, апп хөгжүүлэлт*
+
+- **fastapi-med-api** – Medical prediction API  
+- **patient-dashboard-web** – Healthcare dashboard  
+- **health-mobile-app** – Эрүүл мэндийн мобайл апп  
 
 ---
 
 ## 🎮 Game Development (Unreal Engine C++)
+*Unreal Engine дээр C++ ашиглан тоглоомын систем хөгжүүлэлт*
+
 - **origin-awakening** – AAA open-world prototype  
-- **combat-system-demo** – Modular combat system  
+- **combat-system-demo** – Тулааны системийн загвар  
 
 ---
 
 ## 🛡 Cyber Security
-- **network-vulnerability-lab** – Pentesting & network analysis tools  
-- **python-security-tools** – Automation for security testing  
+*Сүлжээ, системийн аюулгүй байдлын судалгаа, автоматжуулалт*
+
+- **network-vulnerability-lab** – Pentesting лаборатори  
+- **python-security-tools** – Security automation tools  
 
 ---
 
 ## 🌌 Cosmology & Physics Simulation
-- **spacetime-fracture-dynamics** – Space-time distortion modeling  
-- **gravity-simulation-engine** – C++ gravity physics engine  
-- **blackhole-energy-models** – Energy density visualization near black holes  
+*Физик, гравитаци, орон-цагийн симуляци*
+
+- **spacetime-fracture-dynamics** – Орон-цагийн гажуудлын загвар  
+- **gravity-simulation-engine** – Гравитацийн C++ хөдөлгүүр  
+- **blackhole-energy-models** – Хар нүхний энергийн тархалтын загвар  
