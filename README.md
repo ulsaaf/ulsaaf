@@ -1,4 +1,4 @@
-# 👋 Ulsbold — Radiology Data Analyst, Medical Imaging AI Engineer & Full-Stack Developer
+# 👋 Ulsbold — Radiology Data Analyst/scientist,Medical Imaging AI Engineer & Full-Stack Developer
 **Радиологи, MRI / CT өгөгдөл дээр суурилсан эмнэлгийн хиймэл оюун ухаан ба full-stack хөгжүүлэгч**
 
 🎓 Medical IT Engineering – MNUMS  
